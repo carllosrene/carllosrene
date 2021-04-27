@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**CarllosRene/CarllosRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos, tenho 29 anos e sou estudante de Engenharia de Software. 
+Também estou estudando desenvolvimento Web e tenho conhecimento básico em **HTML**, **CSS** e **JavaScript**.
 
-Here are some ideas to get you started:
+Gosto muito de resolver problemas e de aprender!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Moro em Brasília-DF
+
+Como me encontrar 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Renê-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-renê-4034b456)](https://www.linkedin.com/in/carlos-renê-4034b456)
+
+
