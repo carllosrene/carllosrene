@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-My name is Carlos, I'm from Brazil 🇧🇷
+My name is Carlos, I'm from Brazil 🇧🇷 <br>
 I'm a Front-End Developer in construction.
 
-I like to solve problems and create web aplications. Always open to learn new technologies.
+I like to solve problems and create web applications. Always open to learn new technologies.
 
 <br>
      <div>               
@@ -19,6 +19,6 @@ I like to solve problems and create web aplications. Always open to learn new te
 
 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Renê-6DAEC2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-renê-4034b456)](https://www.linkedin.com/in/carlos-renê-4034b456)
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Renê-0D436D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-renê-4034b456)](https://www.linkedin.com/in/carlos-renê-4034b456)
 
 
