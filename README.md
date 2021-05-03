@@ -5,6 +5,8 @@ I'm a Front-End Developer in construction.
 
 I like to solve problems and create web applications. Always open to learn new technologies.
 
+- Living in Brasília-DF
+
 <br>
      <div>               
           <center>
