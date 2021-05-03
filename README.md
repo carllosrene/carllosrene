@@ -1,11 +1,9 @@
-### Olá! 👋
+### Hi there! 👋
 
-Meu nome é Carlos, tenho 29 anos e sou estudante de Engenharia de Software. 
-Também estou estudando desenvolvimento Web e tenho conhecimento básico em **HTML**, **CSS** e **JavaScript**.
+My name is Carlos, I'm from Brazil 🇧🇷
+I'm a Front-End Developer in construction.
 
-Gosto muito de resolver problemas e de aprender!
-
-- Moro em Brasília-DF
+I like to solve problems and create web aplications. Always open to learn new technologies.
 
 <br>
      <div>               
@@ -19,7 +17,7 @@ Gosto muito de resolver problemas e de aprender!
           </center>  
      </div> 
 
-Como me encontrar 👇
+Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Renê-6DAEC2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-renê-4034b456)](https://www.linkedin.com/in/carlos-renê-4034b456)
 
