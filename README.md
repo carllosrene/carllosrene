@@ -12,8 +12,8 @@ I like to solve problems and create web applications. Always open to learn new t
           <center>
                <table>
                     <tr>
-                         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarllosRene&hide=html&layout=compact&theme=react" /></td>
-                         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarllosRene&theme=react&show_icons=true"/></td>
+                         <td><img width="390px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarllosRene&hide=html&layout=compact&theme=react" /></td>
+                         <td><img width="390px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarllosRene&theme=react&show_icons=true"/></td>
                     </tr>   
                </table>
           </center>  
