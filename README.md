@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 My name is Carlos, I'm from Brazil 🇧🇷 <br>
-I'm a Front-End Developer in construction.
+I'm a Software Developer in construction.
 
 I like to solve problems and create web applications. Always open to learn new technologies.
 
